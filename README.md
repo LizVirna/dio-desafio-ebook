@@ -22,9 +22,10 @@ Os prompts utilizados para a criação deste eBook foram:
 
 ---
 
-## Como Acessar o Ebook
+## Como Acessar o eBook
 
-O eBook pode ser acessado [aqui]([#](https://github.com/LizVirna/dio-desafio-ebook/blob/main/ebook-redes.pdf)).
+O eBook pode ser acessado [aqui](https://raw.githubusercontent.com/LizVirna/dio-desafio-ebook/main/ebook-redes.pdf).
+
 
 
 ---
