@@ -22,12 +22,10 @@ Os prompts utilizados para a criação deste eBook foram:
 
 ---
 
-## Estrutura do Repositório
+## Como Acessar o Ebook
 
-- `README.md`: Este arquivo com informações sobre o projeto.
-- `ebook.pdf`: O arquivo do eBook pronto para leitura.
-- `prompts.txt`: O arquivo contendo todos os prompts utilizados no desenvolvimento do eBook.
-- `cover_artwork.jpg`: A capa do eBook, sem texto, com referências a redes de computadores e videogames, em um estilo mais lúdico e imaginativo.
+O eBook pode ser acessado [aqui]([#](https://github.com/LizVirna/dio-desafio-ebook/blob/main/ebook-redes.pdf)).
+
 
 ---
 
