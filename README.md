@@ -31,12 +31,3 @@ Os prompts utilizados para a criação deste eBook foram:
 
 ---
 
-## Como Acessar o Artigo
-
-O artigo explicativo relacionado ao conteúdo do eBook pode ser acessado [aqui](#).
-
----
-
-## Licença
-
-Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
